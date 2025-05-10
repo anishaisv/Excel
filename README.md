@@ -1,4 +1,4 @@
-# 📊 Data Analytics Projects: StreamFlix & GenTech HR
+# 📊 Comprehensive Excel Data Analysis and Dashboard project : StreamFlix & GenTech HR
 
 This repository showcases two end-to-end data analytics projects using Microsoft Excel. Each project focuses on real-world business scenarios involving data cleaning, transformation, analysis, and dashboard creation.
 
